@@ -1,0 +1,17 @@
+{
+    "name": "vendor/testes",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Testes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dudapaula24",
+            "email": "eduarda24paula@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11"
+    }
+}
